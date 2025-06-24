@@ -8,7 +8,7 @@ Just having fun in a halal way (maybe 😄).
 ## 🚀 About Me
 
 - 📚 Currently learning and experimenting with tech, coding, and everything IT.
-- 🛠️ Most of my projects are here—check them out below!
+- 🛠️ Most of my projects are here. check them out below!
 - 😎 Always open to connect and learn from the community.
 
 ---
@@ -18,7 +18,6 @@ Just having fun in a halal way (maybe 😄).
 Take a look at my repositories for the latest things I'm working on!  
 I like to tinker, experiment, and build—explore what interests you most.
 
-[👉 See all my repositories](https://github.com/GusnulMahesa17?tab=repositories)
 
 ---
 
