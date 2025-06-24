@@ -16,7 +16,7 @@ Just having fun in a halal way (maybe 😄).
 ## 📌 Featured Projects
 
 Take a look at my repositories for the latest things I'm working on!  
-I like to tinker, experiment, and build—explore what interests you most.
+I like to tinker, experiment, and build explore what interests you most.
 
 
 ---
