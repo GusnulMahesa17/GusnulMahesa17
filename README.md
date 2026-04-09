@@ -1,7 +1,6 @@
 # Hi there, I'm Gusnul Mahesa 👋
 
 🎓 **Student of Information Technology**  
-Just having fun in a halal way (maybe 😄).
 
 ---
 
