@@ -1,6 +1,5 @@
 # Hi there, I'm Gusnul Mahesa 👋
 
-🎓 **Student of Information Technology**  
 
 ---
 
@@ -26,6 +25,6 @@ I like to tinker, experiment, and build explore what interests you most.
 
 ---
 
-> “Just having fun with halal way (maybe).”
+> “Just having fun”
 
 Thanks for stopping by! ⭐
